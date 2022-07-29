@@ -15,9 +15,13 @@ The best way to start is to clone the [platform starter repository](https://gith
 We recommend that you review the documentation: :books: Read our [centralized documentation page](https://aka.ms/caf/terraform)
 
 Explore the Azure Landing Zones (https://aka.ms/azenable/58/01)
+
 Download the CAF Terraform Landing Zones starter project from GitHub (https://aka.ms/azenable/58/02)
+
 Explore the CAF Terraform modules in the Terraform registry (https://aka.ms/azenable/58/03)
+
 Read this article :Go Big or Go Small? Building in Azure CAF with Terraform Cloud (https://aka.ms/azenable/58/04)
+
 Learn more about the Microsoft Cloud Adoption Framework for Azure (https://aka.ms/azenable/59/02)
 
 
